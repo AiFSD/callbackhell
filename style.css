@@ -1,0 +1,16 @@
+body {
+     display: flex;
+     justify-content: flex-start;
+     align-items: center;
+     height: 100vh;
+     font-size: 8em;
+     background-color: #f0f0f0;
+     padding-top: 20px;
+     flex-direction: column;
+ }
+
+ .bg {
+     background-image: url("https://i.pinimg.com/564x/3a/50/60/3a506054048f6282f7dec2ddfc017f28.jpg");
+     background-repeat: no-repeat;
+     background-size: cover;
+ }
